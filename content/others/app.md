@@ -1,0 +1,16 @@
+---
+title: "Farming App"
+date: 2023-04-20
+author: Juan
+categories: ["Apps"]
+type: "featured"
+image: "https://www.pantrypoints.com/og/farm.jpg"
+description: We have a Farming App to manage small farms
+---
+
+
+We built a Farm App for small farms.
+
+The app is live at https://play.google.com/store/apps/details?id=com.pantrypoints.farmsolo
+
+
