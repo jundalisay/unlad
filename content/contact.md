@@ -28,10 +28,6 @@ content_placeholder: "Hello I’m Mr ‘x’ from....."
 
 #### Address
 
-Unit B Block 5 Lot 1 J. Hernandez Street San Antonio Valley 7 Pulang Lupa Dos Las Pinas City Metro Manila 
-
 ### Telephone Numbers
 
-- 0917-701-2361 
-- 0999-691-0011
 

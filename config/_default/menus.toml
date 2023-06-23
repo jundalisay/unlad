@@ -45,8 +45,8 @@ weight = 3
 
   [[main]]
   parent = "Activities"
-  name = "Training"
-  url = "/training/"
+  name = "Trainings"
+  url = "/trainings/"
   weight = 31
 
   [[main]]
