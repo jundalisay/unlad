@@ -1,7 +1,7 @@
 ---
 title: "About Unlad Saka"
 description: ""
-image: "banners/yoga.jpg"
+image: "banners/coconut.jpg"
 layout: "about"
 link: "https://play.google.com/store/apps/details?id=com.pantrypoints.farmsolo"
 ad: "/banners/dd.jpg"
