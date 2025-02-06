@@ -7,7 +7,10 @@
   <p class="mb-3 small text-light-900">{{ site.Params.subscription.newsletter_invitation }} </p>
   {{ with site.Params.subscription }}
 
-  <form class="row g-3 mb-3" action="https://hub.pantrypoints.com/api/email" method="post" name="mc-embedded-subscribe-form" target="_blank">  
+
+
+<form action="https://usebasin.com/f/2468cfc045f0" method="POST" enctype="multipart/form-data" id="form" >
+  <!-- form class="row g-3 mb-3" action="https://hub.pantrypoints.com/api/email" method="post" name="mc-embedded-subscribe-form" target="_blank" -->  
     <div class="col-12">
       <div class="input-group">
         <input type="text" name="email[email]" class="form-control" placeholder="{{ site.Params.subscription.newsletter_placeholder }}" id="inputEmail4" required><i class="fas fa-envelope"></i>
